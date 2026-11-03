@@ -288,10 +288,9 @@ device-selection steps depend on the Quartus project setup and the
 specific DE2-115 board revision.
 
 ## Results
+<img width="4096" height="3072" alt="IMG20261103105312" src="https://github.com/user-attachments/assets/5b102989-f537-4d01-ac83-97f780c2e637" />
 
-Add screenshots of the Quartus compilation, RTL simulation waveforms,
-and/or DE2-115 hardware demonstration here. Record only results that
-have been observed and verified.
+
 
 ## GitHub Repository
 
