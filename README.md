@@ -37,6 +37,7 @@ LED output register.
 -   DE2-115 pin assignments provided in a Tcl file.
 
 ## Processor Architecture
+<img width="1073" height="840" alt="Screenshot (1480)" src="https://github.com/user-attachments/assets/8ac4fccf-f387-4dde-8645-e61b8d0de779" />
 
 The processor contains the following main blocks:
 
@@ -122,6 +123,9 @@ register and the result is captured in G before being written back to
 `rX`. In this implementation, the `ld` instruction completes in state
 `T4`.
 
+<img width="1469" height="863" alt="Screenshot (1482)" src="https://github.com/user-attachments/assets/fbac6074-f8cb-4dee-a555-cd8442d8dd07" />
+
+
 ### FSM Execution Sequence
 
   -----------------------------------------------------------------------
@@ -150,6 +154,9 @@ register and the result is captured in G before being written back to
   -----------------------------------------------------------------------
 
 ## Memory Map and Board Interface
+
+<img width="859" height="874" alt="Screenshot (1481)" src="https://github.com/user-attachments/assets/5e31c5a4-b493-48bf-bfcf-924902e714cf" />
+
 
 The top-level module decodes the upper address nibble `ADDR[15:12]`.
 
@@ -288,8 +295,14 @@ device-selection steps depend on the Quartus project setup and the
 specific DE2-115 board revision.
 
 ## Results
+
+<img width="4096" height="3072" alt="IMG20261103105254" src="https://github.com/user-attachments/assets/5a57ebf4-b7a6-4f07-9d0c-bd363fada53b" />
+
 <img width="4096" height="3072" alt="IMG20261103105312" src="https://github.com/user-attachments/assets/5b102989-f537-4d01-ac83-97f780c2e637" />
 
+<img width="4096" height="3072" alt="IMG20261103105316" src="https://github.com/user-attachments/assets/5e7f4edc-2190-4449-a99f-c0bfe71e069e" />
+
+<img width="4096" height="3072" alt="IMG20261103105331" src="https://github.com/user-attachments/assets/c4d890a4-9599-41e3-828f-b74d5b667e14" />
 
 
 ## GitHub Repository
