@@ -1,0 +1,86 @@
+Restore Archived Project report for part3
+Tue Nov  3 09:51:12 2026
+Quartus Prime Version 22.1std.2 Build 922 07/20/2023 SC Standard Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Restore Archived Project Summary
+  3. Restore Archived Project Messages
+  4. Files Restored
+  5. Files Not Restored
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2023  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and any partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel FPGA IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Intel and sold by Intel or its authorized distributors.  Please
+refer to the applicable agreement for further details, at
+https://fpgasoftware.intel.com/eula.
+
+
+
++-------------------------------------------------------------------------+
+; Restore Archived Project Summary                                        ;
++---------------------------------+---------------------------------------+
+; Restore Archived Project Status ; Successful - Tue Nov  3 09:51:12 2026 ;
+; Revision Name                   ; part3                                 ;
+; Top-level Entity Name           ; part3                                 ;
+; Family                          ; Cyclone IV E                          ;
++---------------------------------+---------------------------------------+
+
+
++-----------------------------------+
+; Restore Archived Project Messages ;
++-----------------------------------+
+Info: Successfully restored 'C:/Users/student.TT237SENSE022/Downloads/enh_proc_3/enchanced.qar' into the 'C:/Users/student.TT237SENSE022/Downloads/enh_proc_3/enchanced_restored/' directory
+Info: Generated report 'part3.restore.rpt'
+Info (23030): Evaluation of Tcl script c:/intelfpga/22.1std/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus Prime Shell was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 4868 megabytes
+    Info: Processing ended: Tue Nov  3 09:51:12 2026
+    Info: Elapsed time: 00:00:00
+    Info: Total CPU time (on all processors): 00:00:00
+
+
++-------------------------------+
+; Files Restored                ;
++-------------------------------+
+; File Name                     ;
++-------------------------------+
+; qar_info.json                 ;
+; Lab10_Part3.qpf               ;
+; assignment_defaults.qdf       ;
+; inst_mem.mif                  ;
+; inst_mem.qip                  ;
+; inst_mem.v                    ;
+; inst_mem_bb.v                 ;
+; part3.qsf                     ;
+; part3.v                       ;
+; part3_assignment_defaults.qdf ;
+; part3_pins.tcl                ;
+; proc.v                        ;
++-------------------------------+
+
+
++--------------------+
+; Files Not Restored ;
++--------------------+
+; File Name          ;
++--------------------+
+
+
